@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 8000 4500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;">
+        <style>
+            @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono');
+            text {
+                font-family:'Roboto Mono', 'Roboto';
+                font-weight:500;
+                font-size:83.333px;
+            }
+        </style>
+        
+        <text x="2600px" y="2328px" style="fill:DodgerBlue; text-anchor:end">Present</text>
+        
+        <text x="5200px" y="2300px" style="fill:DodgerBlue;">Probable</text>
+        <path id="probable" style="fill:DodgerBlue;fill-opacity:0.45;" d="M2693.2,2303.52l2384.83,-221.679l-0,443.358l-2384.83,-221.679Z" />
+        
+        <text x="5200px" y="1800px" style="fill:DodgerBlue;">Plausible</text>
+        <path id="plausible" style="fill:DodgerBlue;fill-opacity:0.4;" d="M2693.2,2303.52l2384.83,-765.219l-0,1530.44l-2384.83,-765.22Z" />
+
+        <text x="5200px" y="1400px" style="fill:DodgerBlue;">Possible</text>
+        <path id="possible" style="fill:DodgerBlue;fill-opacity:0.3;" d="M2693.2,2303.52l2384.83,-1110.22l-0,2220.43l-2384.83,-1110.22Z" />
+        
+        <g id="preposterous">
+            <text x="5200px" y="1000px" style="fill:DeepPink;">Preposterous</text>
+            <path id="preposterous" style="fill:DeepPink;fill-opacity:0.19;" d="M5078.03,773.084l-0,3060.88l-2384.83,-1530.44l2384.83,-1530.44Zm-2384.83,1530.44l2384.83,-1110.22l-0,2220.43l-2384.83,-1110.22Z" />
+        </g>
+        
+        <g id="preferable-design">
+            <text x="4500px" y="2100px" style="fill:GreenYellow;">Preferable</text>
+            <path id="preferable" style="fill:GreenYellow; fill-opacity:0.5;" d="M4390.08,2258.37l-1696.89,45.158l1696.89,-438.073l-0,392.915Z" />
+        </g>
+        
+        <!-- <g id="preferable-stories">
+            <path id="preferable" style="fill:GreenYellow; fill-opacity:0.5;" d="M4390.08,2243.45l-1696.89,60.076c0,0 1696.89,-1392.04 1696.89,-1392.04l-0,1331.96Z" />
+            <text x="4500px" y="1900px" style="fill:GreenYellow;">
+                Preferable
+            </text>
+        </g> -->
+</svg>
