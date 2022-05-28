@@ -30,10 +30,10 @@ style="fill-rule:evenodd;clip-rule:evenodd;">
         <text x="5200px" y="1400px" style="fill:DodgerBlue;">Possible</text>
         <path id="possible" style="fill:DodgerBlue;fill-opacity:0.3;" d="M2693.2,2303.52l2384.83,-1110.22l-0,2220.43l-2384.83,-1110.22Z" />
         
-        <g id="preposterous">
+        <!-- <g id="preposterous">
             <text x="5200px" y="1000px" style="fill:DeepPink;">Preposterous</text>
             <path id="preposterous" style="fill:DeepPink;fill-opacity:0.19;" d="M5078.03,773.084l-0,3060.88l-2384.83,-1530.44l2384.83,-1530.44Zm-2384.83,1530.44l2384.83,-1110.22l-0,2220.43l-2384.83,-1110.22Z" />
-        </g>
+        </g> -->
         
         <g id="preferable-design">
             <text x="4500px" y="2100px" style="fill:GreenYellow;">Preferable</text>
