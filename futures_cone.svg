@@ -35,15 +35,15 @@ style="fill-rule:evenodd;clip-rule:evenodd;">
             <path id="preposterous" style="fill:DeepPink;fill-opacity:0.19;" d="M5078.03,773.084l-0,3060.88l-2384.83,-1530.44l2384.83,-1530.44Zm-2384.83,1530.44l2384.83,-1110.22l-0,2220.43l-2384.83,-1110.22Z" />
         </g>
         
-        <g id="preferable-design">
+        <!-- <g id="preferable-design">
             <text x="4500px" y="2100px" style="fill:GreenYellow;">Preferable</text>
             <path id="preferable" style="fill:GreenYellow; fill-opacity:0.5;" d="M4390.08,2258.37l-1696.89,45.158l1696.89,-438.073l-0,392.915Z" />
-        </g>
+        </g> -->
         
-        <!-- <g id="preferable-stories">
+        <g id="preferable-fiction">
             <path id="preferable" style="fill:GreenYellow; fill-opacity:0.5;" d="M4390.08,2243.45l-1696.89,60.076c0,0 1696.89,-1392.04 1696.89,-1392.04l-0,1331.96Z" />
             <text x="4500px" y="1900px" style="fill:GreenYellow;">
                 Preferable
             </text>
-        </g> -->
+        </g>
 </svg>
